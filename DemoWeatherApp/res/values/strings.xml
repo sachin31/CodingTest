@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Forecast</string>
+    <string name="loc_name">Location Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_description">image</string>
+    <string name="btn_txt">TRY AGAIN</string>
+    <string name="loc_not_found">Unable to find location. Please try again.</string>
+    <string name="nw_settings">Network Settings</string>
+    <string name="nw_settings_msg">Not connected to network. Do you want to go to settings menu?</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="gps_settings_msg">GPS is not enabled. Do you want to go to settings menu?</string>
+	<string name="no_updates">No updates available. Please try again later.</string>
+	<string name="conn_error">There is some problem with network. Please try again later.</string>
+	<string name="rain">rain</string>
+	<string name="clear_day">clear-day</string>
+	<string name="cloudy">cloudy</string>
+	<string name="partly_cloudy">partly-cloudy-day</string>
+
+</resources>
