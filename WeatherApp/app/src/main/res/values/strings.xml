@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- MainActivity -->
+    <string name="image_description">image</string>
+    <string name="loc_not_found">Unable to find location. Please try again.</string>
+    <string name="nw_settings">Network Settings</string>
+    <string name="nw_settings_msg">Network and GPS not enabled. Would you like to change network and GPS settings?</string>
+    <string name="conn_error">There is some problem with network. Please check your network settings and try again.</string>
+    <!-- CommonFunctions -->
+    <string name="rain">rain</string>
+    <string name="clear_day">clear-day</string>
+    <string name="clear_night">clear-night</string>
+    <string name="cloudy">cloudy</string>
+    <string name="partly_cloudy">partly-cloudy-day</string>
+
+
+</resources>
